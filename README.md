@@ -24,7 +24,7 @@ Add your timetable using ```<td>``` tag.
 Execute the program using runserver command.
 
 ## PROGRAM
-'''
+
 <!DOCTYPE html>
 <html> 
 <head>
@@ -116,7 +116,7 @@ Execute the program using runserver command.
          </table>   
     </body>
 </html>
-'''
+
 
 ## OUTPUT
 <img width="996" height="889" alt="time table slot" src="https://github.com/user-attachments/assets/3f539229-1100-44e6-8a4e-9b542848ddd8" />
